@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+<div class="mod_layer_light">
+    <div class="inner">
+        <a class="close" href="javascript:void(0);">×</a>
+        <div class="bd">
+            <i class="icon_tips_32 icon_32_right">&nbsp;</i>
+            <div class="tips_cont">分享成功</div>
+        </div>
+    </div>
+</div>$0]]></content>
+	<tabTrigger>mod_layer_light</tabTrigger>
+	<scope>text.html</scope>
+	<description>迷你浮层</description>
+</snippet>

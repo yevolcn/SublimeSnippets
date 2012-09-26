@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+<div class="wg_rate wg_rate_default_4" id="testRate">
+    <a href="javascript:void(0);" title="太失败了" class="wg_rate_1">1分</a>
+    <a href="javascript:void(0);" title="不好" class="wg_rate_2">2分</a>
+    <a href="javascript:void(0);" title="还行" class="wg_rate_3">3分</a>
+    <a href="javascript:void(0);" title="挺好" class="wg_rate_4">4分</a>
+    <a href="javascript:void(0);" title="真的很赞" class="wg_rate_5">5分</a>
+</div>$0]]></content>
+	<tabTrigger>wg_rate</tabTrigger>
+	<scope>text.html</scope>
+	<description>评论星星</description>
+</snippet>

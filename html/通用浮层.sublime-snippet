@@ -1,0 +1,33 @@
+<snippet>
+	<content><![CDATA[
+<!-- 所有需要自定义的样式都针对div.layer_common来写 -->
+<div class="layer_common_v2">
+    <div class="layer_inner">
+        <div class="layer_hd">
+            <div class="layer_hd_title">提示标题</div>
+            <a href="javascript:void(0);" class="layer_hd_close">close</a>
+        </div>
+        <div class="layer_bd">
+            <!-- icon_tips_32_success -->
+            <!-- icon_tips_32_failure -->
+            <!-- icon_tips_32_loading -->
+            <i class="layer_status icon_tips_32_success"></i>
+            <div class="layer_cont">
+                <div class="layer_cont_hd">
+                    信息标题
+                </div>
+                <div class="layer_cont_bd">
+                    匡威中性经典系列硫化鞋常青款 复古而不守旧的款式与配色 Converse Fans的挚爱
+                </div>
+                <div class="layer_cont_ft">
+                    <a href="#" target="_blank" class="mod_btn"><i class="bod_left"></i><span class="inner">宽度自适应按钮</span><i class="bod_right"></i></a>
+                    <a href="#" target="_blank" class="mod_btn mod_btn_red"><i class="bod_left"></i><span class="inner">宽度自适应按钮</span><i class="bod_right"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>$0]]></content>
+	<tabTrigger>layer_common</tabTrigger>
+	<scope>text.html</scope>
+	<description>通用浮层</description>
+</snippet>

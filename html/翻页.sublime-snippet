@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<div class="pages">
+    <a href="#" class="btn btn_disabled"><i><</i>上一页</a><a href="#" class="btn"><i><</i>上一页</a><a href="#">1</a><span class="dot">...</span><a href="#" class="on">2</a><a href="#">3</a><a href="#">4</a><a href="#">5</a><a href="#">6</a><a href="#" class="btn">下一页 <i>></i></a><a href="#" class="btn btn_disabled">下一页 <i>></i></a><span class="total">共100页</span><span class="action">跳到第<select><option value="">1</option><option value="" selected="selected">2</option><option value="">3</option></select>页</span>
+</div>$0]]></content>
+	<tabTrigger>翻页</tabTrigger>
+	<scope>text.html</scope>
+	<description>网购新翻页组件</description>
+</snippet>

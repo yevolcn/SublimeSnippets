@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+<ul class="goods_lists">
+	<li>
+		<div class="img"><a href="javascript:void()" title="#"><img src="http://ppms.paipaioa.com/php/imgDemo.php?size=200x300" alt=""><span class="icon_X">促销</span></a></div>
+		<div class="img_info">
+			<p class="price"><span class="price_now">&yen;888.88</span><span class="price_old">&yen;888.88</span></p>
+			<p class="cuxiao">促销语啊促销语啊促销语啊促销语啊促销语啊促销语啊</p>
+			<p class="name"><a href="javascript:void()">商品名称商品名称商品名称商品名称商品名称商品名称</a></p>
+			<p class="tags"><a href="#" class="tags_blue">标签标签标签</a><a href="#" class="tags_red">标签标签标签</a></p>
+		</div>
+	</li>
+</ul>$0]]></content>
+	<tabTrigger>goods_lists</tabTrigger>
+	<scope>text.html</scope>
+	<description>商品列表</description>
+</snippet>

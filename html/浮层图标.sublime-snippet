@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<i class="icon_tips_${1:16/32}_${2:success/failure/loading}">&nbsp;</i>$0]]></content>
+	<tabTrigger>浮层图标</tabTrigger>
+	<scope>text.html</scope>
+	<description>浮层图标</description>
+</snippet>
