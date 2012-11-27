@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[/**
+* $1
+*
+* @author joyma<yevolcn#qq.com>
+* @date $2
+*/]]></content>
+	<tabTrigger>wgcss</tabTrigger>
+	<scope>source.css</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[:after{content:'';display:block;clear:both;height:0;visibility:hidden;}]]></content>
+    <tabTrigger>:after</tabTrigger>
+    <scope>source.css</scope>
+    <description>clear:after</description>
+</snippet>

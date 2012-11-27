@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>QQ网购</title>
+		<link rel="stylesheet" href="http://static.gtimg.com/css_v1/common/common.css" type="text/css" media="screen" />
+		<link rel="stylesheet" href="http://static.gtimg.com/css_v1/common/module.css" type="text/css" media="screen" />
+		<link rel="stylesheet" href="http://static.gtimg.com/css_v1/$1.css" type="text/css" media="screen" />
+		<!--注：开发时请删除以上link，并改为引用页面片-->
+		<!--#include virtual="/sinclude/cssi/v1/$1.html"-->
+	</head>
+	<body>
+		<div class="main">
+			$2
+		</div>
+	</body>
+</html>]]></content>
+	<tabTrigger>wghtml_v1</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

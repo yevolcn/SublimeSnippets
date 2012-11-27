@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>QQ网购</title>
+		<link rel="stylesheet" href="http://static.gtimg.com/css/common/common.css" type="text/css" media="screen" />
+		<link rel="stylesheet" href="http://static.gtimg.com/css/common/module.css" type="text/css" media="screen" />
+		<link rel="stylesheet" href="http://static.gtimg.com/css/$1.css" type="text/css" media="screen" />
+	</head>
+	<body>
+		$2
+	</body>
+</html>]]></content>
+	<tabTrigger>wghtml</tabTrigger>
+	<scope>text.html</scope>
+</snippet>
